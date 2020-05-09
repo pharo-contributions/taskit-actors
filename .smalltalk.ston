@@ -2,7 +2,7 @@ SmalltalkCISpec {
   #loading : [
     SCIMetacelloLoadSpec {
       #baseline : 'ActIt',
-      #directory : '',
+      #directory : 'src',
       #platforms : [ #pharo ]
     }
   ],
